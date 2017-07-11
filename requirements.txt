@@ -1,0 +1,7 @@
+notebook
+ipython
+pandas
+scipy
+scikit-learn
+matplotlib
+bokeh
